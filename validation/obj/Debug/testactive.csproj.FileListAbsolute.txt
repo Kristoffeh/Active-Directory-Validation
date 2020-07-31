@@ -1,0 +1,9 @@
+C:\Users\kran\source\repos\testactive\testactive\bin\Debug\testactive.exe.config
+C:\Users\kran\source\repos\testactive\testactive\bin\Debug\testactive.exe
+C:\Users\kran\source\repos\testactive\testactive\bin\Debug\testactive.pdb
+C:\Users\kran\source\repos\testactive\testactive\obj\Debug\testactive.csprojAssemblyReference.cache
+C:\Users\kran\source\repos\testactive\testactive\obj\Debug\testactive.Form1.resources
+C:\Users\kran\source\repos\testactive\testactive\obj\Debug\testactive.Properties.Resources.resources
+C:\Users\kran\source\repos\testactive\testactive\obj\Debug\testactive.csproj.GenerateResource.cache
+C:\Users\kran\source\repos\testactive\testactive\obj\Debug\testactive.exe
+C:\Users\kran\source\repos\testactive\testactive\obj\Debug\testactive.pdb
